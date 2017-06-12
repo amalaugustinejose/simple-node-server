@@ -1,6 +1,11 @@
 # simple-node-server
 ##### A very basic node server
 
+
+## Pre Requisites
+
+##### 1. Node.js installed
+
 ## To set it up and get running
 
 
